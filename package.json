@@ -1,7 +1,7 @@
 {
     "name": "memdb-client",
     "description": "memdb node.js client",
-    "version": "0.5.7",
+    "version": "0.5.8",
     "author": "rain1017",
     "private" : false,
     "homepage" : "https://github.com/rain1017/memdb-client",
